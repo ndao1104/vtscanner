@@ -1,7 +1,7 @@
 # [VT-Scanner](https://vtscanner.herokuapp.com/)
 
 ## About the Project
-Bulk scan hashed-files though VirusTotal API.
+Bulk Scan Hashed Files via the VirusTotal API.
 
 ## Technology Stack
 #### Front-End
